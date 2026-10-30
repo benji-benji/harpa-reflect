@@ -76,36 +76,6 @@ All accounts use password:
 - `sereena` (supervisor)
 - `alex`, `jordan`, `priya`, `marcus`, `leila` (staff)
 
-## Next Steps
-
-### Priority (MVP completion)
-- [ ] Voice input — integrate local Whisper on Hetzner for audio transcription
-- [ ] Goal setting UI — page to set/view/complete development goals
-- [ ] Quote approval flow — after viewing AI response, prompt staff to approve quotes for funder reports
-- [ ] Supervisor dashboard — engagement metrics view (endpoint exists, needs UI)
-- [ ] Update backend tests to work with Supabase (currently test against InMemoryDB)
-
-### Styling & UX
-- [ ] Polish mobile CSS — current styling is functional but basic
-- [ ] Loading states and error handling throughout
-- [ ] PWA setup — offline draft storage, install prompt
-- [ ] Session date picker on journal flow (currently defaults to today)
-
-### Deployment
-- [ ] Docker Compose for Hetzner (backend + frontend + Whisper)
-- [ ] Nginx reverse proxy config
-- [ ] SSL/HTTPS setup
-- [ ] Environment-specific configs (dev/staging/prod)
-
-### Future Features (post-MVP)
-- [ ] RAG pipeline — chunk and embed the 23 playwork theory PDFs into pgvector for cited coaching responses
-- [ ] BERTopic theme extraction across team journal entries
-- [ ] Sentiment analysis time series for staff wellbeing
-- [ ] Streamlit analysis dashboard for quantitative outcome charts
-- [ ] Plinth CRM integration (member_id foreign key linkage)
-- [ ] WhatsApp integration for entry reminders
-- [ ] Export tools for Peabody quarterly reports
-
 ## Docs
 
 - [PRD](docs/PRD.md)
