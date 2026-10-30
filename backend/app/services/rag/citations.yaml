@@ -1,0 +1,476 @@
+# Citation metadata for the Playwork Theory corpus.
+#
+# Each entry maps a filename in `play theory/` (or subfolders) to a full
+# academic citation. The LLM will use `short_cite` for in-text references and
+# `full_ref` when building the References section.
+#
+# `confidence: low` means I could not verify this reference from the document
+# itself — please check and correct. `confidence: high` means the document's
+# own title page or cover footer gave me the citation verbatim.
+
+documents:
+
+  - filename: "1 - Russell et al Perspectives on play research v2.pdf"
+    authors: ["Russell, W. K.", "Lester, S.", "Smith, H."]
+    year: 2017
+    title: "Perspectives on play research: the practice-theory-research entanglement"
+    container: "Practice-based Research in Children's Play"
+    editors: null
+    publisher: "Policy Press, University of Bristol"
+    place: "Bristol"
+    pages: "1–15"
+    isbn: "978-1447330035"
+    url: "https://eprints.glos.ac.uk/id/eprint/4797"
+    short_cite: "Russell, Lester & Smith, 2017"
+    full_ref: "Russell, W. K., Lester, S. & Smith, H. (2017). 'Perspectives on play research: the practice-theory-research entanglement'. In: *Practice-based Research in Children's Play*. Bristol: Policy Press, pp. 1–15. ISBN 978-1447330035."
+    confidence: high
+
+  - filename: "2025-06-11-everything-to-play-for-raising-the-nation-play-commission-report-final.pdf"
+    authors: ["Raising the Nation Play Commission"]
+    year: 2025
+    title: "Everything to Play For: A Plan to Ensure Every Child in England Can Play"
+    publisher: "Raising the Nation Play Commission"
+    place: "London"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Raising the Nation Play Commission, 2025"
+    full_ref: "Raising the Nation Play Commission (2025). *Everything to Play For: A Plan to Ensure Every Child in England Can Play*. June 2025."
+    confidence: high
+
+  - filename: "3 - Playwork Principles self assessment framework v4 (3).pdf"
+    authors: ["Playwork Principles Scrutiny Group"]
+    year: 2025
+    title: "Playwork Principles Self-assessment"
+    publisher: "Playwork Principles Scrutiny Group"
+    place: "Cardiff"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "PPSG, 2025"
+    full_ref: "Playwork Principles Scrutiny Group (2025). *Playwork Principles Self-assessment*. November 2025."
+    confidence: high
+
+  - filename: "5.1-guidance-playwork-essentials.pdf"
+    authors: ["Scott-McVie, L.", "Casey, T."]
+    editors: ["Follett, M."]
+    year: 2022
+    title: "Playwork Essentials: An introduction to essential playwork skills and knowledge for all adults working in schools"
+    publisher: "Outdoor Play and Learning (OPAL)"
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Scott-McVie, Casey & Follett, 2022"
+    full_ref: "Scott-McVie, L. & Casey, T. (2022). *Playwork Essentials: An introduction to essential playwork skills and knowledge for all adults working in schools*. Adapted by M. Follett. Outdoor Play and Learning (OPAL)."
+    confidence: high
+
+  - filename: "Adventure Playground Survey Results_Provisions 2024_FINAL.pdf"
+    authors: ["Playwork Foundation"]
+    year: 2024
+    title: "UK Adventure Playground Provision Survey Results"
+    publisher: "Playwork Foundation"
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Playwork Foundation, 2024"
+    full_ref: "Playwork Foundation (2024). *UK Adventure Playground Provision Survey Results*. Surveys conducted February–June 2024."
+    confidence: high
+
+  - filename: "Adventure Playgrounds - A Brief History (2017).pdf"
+    authors: ["Chilton, T."]
+    year: 2017
+    title: "Adventure Playgrounds: A Brief History"
+    publisher: "Self-published (with support from Prof. Fraser Brown)"
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Chilton, 2017"
+    full_ref: "Chilton, T. (2017). *Adventure Playgrounds: A Brief History*."
+    confidence: high
+
+  - filename: "Adventure Playgrounds and Social Value Ali Long.docx"
+    authors: ["Long, A."]
+    year: 2024
+    title: "Adventure Playgrounds and Social Value"
+    publisher: null
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Long, 2024"
+    full_ref: "Long, A. (2024). *Adventure Playgrounds and Social Value*. September 2024."
+    confidence: high
+
+  - filename: "Adventure-Playgrounds The Essential Elements PLAY ENGLAND.pdf"
+    authors: ["Play England"]
+    year: 2017
+    title: "Adventure Playgrounds: The Essential Elements"
+    publisher: "Play England"
+    place: "London"
+    pages: null
+    isbn: null
+    url: "www.playengland.net"
+    short_cite: "Play England, 2017"
+    full_ref: "Play England (2017). *Adventure Playgrounds: The Essential Elements*. Briefing paper. London: Play England."
+    confidence: high
+
+  - filename: "bestplay.pdf"
+    authors: ["National Playing Fields Association", "PLAYLINK", "Children's Play Council"]
+    year: 2000
+    title: "Best Play: What Play Provision Should Do for Children"
+    publisher: "National Playing Fields Association"
+    place: "London"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "NPFA/PLAYLINK/CPC, 2000"
+    full_ref: "National Playing Fields Association, PLAYLINK & Children's Play Council (2000). *Best Play: What Play Provision Should Do for Children*. London: NPFA."
+    confidence: high
+
+  - filename: "Chapter9-PlayworkAM-BROWN.pdf"
+    authors: ["Brown, F. C."]
+    year: 2018
+    title: "Playwork"
+    container: "Perspectives on Play: Learning for Life"
+    editors: ["Brock, A.", "Jarvis, P.", "Olusoga, E. A."]
+    publisher: "Routledge"
+    place: "London"
+    edition: "3rd"
+    pages: null
+    isbn: "978-0815367116"
+    url: "https://eprints.leedsbeckett.ac.uk/id/eprint/5586/"
+    short_cite: "Brown, 2018"
+    full_ref: "Brown, F. C. (2018). 'Playwork'. In: Brock, A., Jarvis, P. & Olusoga, E. A. (eds.) *Perspectives on Play: Learning for Life*. 3rd ed. London: Routledge. ISBN 978-0815367116."
+    confidence: high
+
+  - filename: "Colorado_paper_2[1].pdf"
+    authors: ["Sturrock, G.", "Else, P."]
+    year: 1998
+    title: "The Playground as Therapeutic Space: Playwork as Healing ('The Colorado Paper')"
+    container: "Therapeutic Playwork Reader One 1995–2000"
+    publisher: null
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Sturrock & Else, 1998"
+    full_ref: "Sturrock, G. & Else, P. (1998). 'The Playground as Therapeutic Space: Playwork as Healing' ('The Colorado Paper'). In: *Therapeutic Playwork Reader One 1995–2000*. Originally presented at IPA/USA Conference."
+    confidence: high
+
+  - filename: "da80b-a-situated-ethos-of-playwork-final-draft-1.pdf"
+    authors: ["Voce, A.", "Sturrock, G."]
+    year: 2018
+    title: "A situated ethos of playwork: Turning the playwork story into a narrative for change"
+    publisher: null
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Voce & Sturrock, 2018"
+    full_ref: "Voce, A. & Sturrock, G. (2018). *A situated ethos of playwork: Turning the playwork story into a narrative for change*. June 2018."
+    confidence: high
+
+  - filename: "ED511455.pdf"
+    authors: ["Wilson, P."]
+    year: 2010
+    title: "The Playwork Primer"
+    publisher: "Alliance for Childhood"
+    place: null
+    edition: "2010 Edition"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Wilson, 2010"
+    full_ref: "Wilson, P. (2010). *The Playwork Primer*. 2010 Edition. Alliance for Childhood."
+    confidence: high
+
+  - filename: "First-Claim-frameworks.pdf"
+    authors: ["Play Wales"]
+    year: 2005
+    title: "First Claim: Basic, Intermediate and Advanced Quality Assessment Frameworks"
+    publisher: "Play Wales"
+    place: "Cardiff"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Play Wales, 2005"
+    full_ref: "Play Wales (2005). *First Claim: Quality Assessment Frameworks (Basic, Intermediate and Advanced)*. Cardiff: Play Wales."
+    confidence: medium
+
+  - filename: "Introducing-Playwork.pdf"
+    authors: ["Judson, C."]
+    year: 2024
+    title: "Introduction to Playwork"
+    publisher: "Sheffield Play Partnership"
+    place: "Sheffield"
+    edition: "Version 1"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Judson, 2024"
+    full_ref: "Judson, C. (2024). *Introduction to Playwork*. Version 1. Sheffield: Sheffield Play Partnership."
+    confidence: high
+
+  - filename: "Loose-Parts-Play-Toolkit-2019-web.pdf"
+    authors: ["Inspiring Scotland"]
+    year: 2019
+    title: "Loose Parts Play: A Toolkit"
+    edition: "2nd (Second Edition 2019)"
+    publisher: "Inspiring Scotland"
+    place: "Edinburgh"
+    pages: null
+    isbn: null
+    url: "www.inspiringscotland.org.uk"
+    short_cite: "Inspiring Scotland, 2019"
+    full_ref: "Inspiring Scotland (2019). *Loose Parts Play: A Toolkit*. 2nd ed. Edinburgh: Inspiring Scotland."
+    confidence: high
+
+  - filename: "managing-risk-in-play-provision.pdf"
+    authors: ["Ball, D.", "Gill, T.", "Spiegal, B."]
+    year: 2012
+    title: "Managing Risk in Play Provision: Implementation Guide"
+    edition: "2nd"
+    publisher: "National Children's Bureau / Play England, Play Safety Forum"
+    place: "London"
+    pages: null
+    isbn: "978-1-909391-11-6"
+    url: null
+    short_cite: "Ball, Gill & Spiegal, 2012"
+    full_ref: "Ball, D., Gill, T. & Spiegal, B. (2012). *Managing Risk in Play Provision: Implementation Guide*. 2nd ed. London: National Children's Bureau. ISBN 978-1-909391-11-6."
+    confidence: high
+
+  - filename: "mrpp-position-statement-2021.pdf"
+    authors: ["Play Safety Forum"]
+    year: 2021
+    title: "Managing Risk in Play Provision: A Position Statement"
+    publisher: "Play Safety Forum"
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Play Safety Forum, 2021"
+    full_ref: "Play Safety Forum (2021). *Managing Risk in Play Provision: A Position Statement*."
+    confidence: high
+
+  - filename: "Navidi-2009-Children__Society-Foundationsofplaywork.pdf"
+    authors: ["Navidi, U."]
+    year: 2009
+    title: "Review of 'Foundations of Playwork' (edited by F. Brown & C. Taylor, 2008)"
+    container: "Children & Society"
+    publisher: "National Children's Bureau (journal)"
+    volume: "23"
+    pages: "236–238"
+    isbn: null
+    url: null
+    short_cite: "Navidi, 2009"
+    full_ref: "Navidi, U. (2009). 'Review of Brown, F. & Taylor, C. (eds) *Foundations of Playwork* (Maidenhead: Open University Press, 2008, ISBN 9780335222919)'. *Children & Society*, Vol. 23, pp. 236–238. (Reviewed by Dr Ute Navidi, Chief Executive, London Play.)"
+    confidence: high
+
+  - filename: "no-14_what_is_playwork.pdf"
+    authors: ["Brown, F."]
+    year: 2009
+    title: "What is Playwork?"
+    container: "CPIS Factsheet No. 14"
+    publisher: "Children's Play Information Service (CPIS), National Children's Bureau"
+    place: "London"
+    pages: null
+    isbn: null
+    url: "www.ncb.org.uk/cpis"
+    short_cite: "Brown, 2009"
+    full_ref: "Brown, F. (2009). *What is Playwork?* CPIS Factsheet No. 14. London: Children's Play Information Service, National Children's Bureau. © NCB 2009."
+    confidence: high
+
+  - filename: "play-for-a-change-summary.pdf"
+    authors: ["Lester, S.", "Russell, W."]
+    year: 2008
+    title: "Play for a Change — Play, Policy and Practice: A Review of Contemporary Perspectives (Summary report)"
+    publisher: "Play England / National Children's Bureau"
+    place: "London"
+    pages: null
+    isbn: "1-905818-40-8"
+    url: null
+    short_cite: "Lester & Russell, 2008"
+    full_ref: "Lester, S. & Russell, W. (2008). *Play for a Change — Play, Policy and Practice: A Review of Contemporary Perspectives*. Summary report. London: Play England / National Children's Bureau. ISBN 1-905818-40-8."
+    confidence: high
+
+  - filename: "Play+England+Report+into+Adventure+Playgrounds+in+England+Winter+2021.pdf"
+    authors: ["Play England"]
+    year: 2022
+    title: "Play England Report into Adventure Playgrounds in England, Winter 2021–22"
+    publisher: "Play England"
+    place: "London"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Play England, 2022"
+    full_ref: "Play England (2022). *Play England Report into Adventure Playgrounds in England, Winter 2021–22*."
+    confidence: high
+
+  - filename: "Playwork first draft for editor Shelly Newsted.docx"
+    authors: ["Newstead, S."]
+    year: null
+    title: "Whose leisure is it anyway? The challenges of providing children's leisure from a cross-cultural playwork perspective"
+    publisher: null
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Newstead (draft)"
+    full_ref: "Newstead, S. (n.d.). *Whose leisure is it anyway? The challenges of providing children's leisure from a cross-cultural playwork perspective*. Draft chapter."
+    confidence: medium
+
+  - filename: "Playwork-Functional-Map-290216.pdf"
+    authors: ["Larissey, C."]
+    year: 2016
+    title: "Playwork Functional Map"
+    publisher: "SkillsActive (UK National Occupational Standards for Playwork)"
+    place: "UK"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Larissey / SkillsActive, 2016"
+    full_ref: "Larissey, C. (2016). *Playwork Functional Map* (with new NOS titles). SkillsActive, UK National Occupational Standards for Playwork. February 2016."
+    confidence: high
+
+  - filename: "preview-9781136842535_A25776425.pdf"
+    authors: ["Ghaye, T."]
+    year: 2011
+    title: "Teaching and Learning through Reflective Practice: A practical guide for positive action"
+    edition: "2nd"
+    publisher: "Routledge"
+    place: "London"
+    pages: null
+    isbn: "9781136842535"
+    url: null
+    short_cite: "Ghaye, 2011"
+    full_ref: "Ghaye, T. (2011). *Teaching and Learning through Reflective Practice: A practical guide for positive action*. 2nd ed. London: Routledge. ISBN 9781136842535."
+    confidence: high
+
+  - filename: "reframingfinalofficialA444ppReport.pdf"
+    authors: ["Else, P.", "Sturrock, G."]
+    year: 2006
+    title: "Reframing Playwork; Reframing Challenging Behaviour"
+    container: "Playwork Impact Evaluation: Final Report"
+    publisher: "Nottingham City Council"
+    place: "Nottingham"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Else & Sturrock, 2006"
+    full_ref: "Else, P. & Sturrock, G. (2006). *Reframing Playwork; Reframing Challenging Behaviour*. Playwork Impact Evaluation: Final Report. Nottingham City Council, March 2005 – March 2006."
+    confidence: high
+
+  - filename: "Russell 2013 The dialectics of playwork PhD thesis final for binding.pdf"
+    authors: ["Russell, W. K."]
+    year: 2013
+    title: "The Dialectics of Playwork: A conceptual and ethnographic study of playwork using Cultural Historical Activity Theory"
+    publisher: "University of Gloucestershire"
+    place: "Cheltenham"
+    pages: null
+    isbn: null
+    url: null
+    thesis: "PhD thesis, Faculty of Applied Sciences"
+    short_cite: "Russell, 2013"
+    full_ref: "Russell, W. K. (2013). *The Dialectics of Playwork: A conceptual and ethnographic study of playwork using Cultural Historical Activity Theory*. PhD thesis, University of Gloucestershire."
+    confidence: high
+
+  - filename: "Sciences du Jeu Newstead final English version.docx"
+    authors: ["Newstead, S."]
+    year: 2019
+    title: "Playwork – in search of an identity"
+    container: "Sciences du Jeu"
+    publisher: null
+    place: null
+    pages: null
+    isbn: null
+    url: "https://journals.openedition.org/sdj/1932"
+    short_cite: "Newstead, 2019"
+    full_ref: "Newstead, S. (2019). 'Playwork – in search of an identity'. *Sciences du Jeu*, December 2019. Originally published in French as 'Le playwork à la recherche d'une identité perdue'."
+    confidence: high
+
+  - filename: "Sutton Environmental Modification.docx"
+    authors: ["Sutton, L."]
+    year: null
+    title: "Adventure Playgrounds and environmental modification: a beginner's guide"
+    publisher: "The Land, UK"
+    place: null
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Sutton (n.d.)"
+    full_ref: "Sutton, L. (n.d.). *Adventure Playgrounds and environmental modification: a beginner's guide*. The Land, UK."
+    confidence: medium
+
+  - filename: "Sutton-Smith_Play and Ambiguity_Excerpt-1997.pdf"
+    authors: ["Sutton-Smith, B."]
+    year: 1997
+    title: "The Ambiguity of Play"
+    publisher: "Harvard University Press"
+    place: "Cambridge, MA"
+    pages: null
+    isbn: null
+    url: null
+    short_cite: "Sutton-Smith, 1997"
+    full_ref: "Sutton-Smith, B. (1997). *The Ambiguity of Play*. Cambridge, MA: Harvard University Press. (Excerpt.)"
+    confidence: high
+
+  - filename: "The Foundations of the Resiliency Framework - Resiliency in Action _ Nan Henderson, M.S.W., Ph.D..pdf"
+    authors: ["Benard, B."]
+    year: null
+    title: "The Foundations of the Resiliency Framework"
+    publisher: "Resiliency In Action (compiled by Nan Henderson, M.S.W., Ph.D.)"
+    place: null
+    pages: null
+    isbn: null
+    url: "https://resiliency.com"
+    short_cite: "Benard (n.d.)"
+    full_ref: "Benard, B. (n.d.). *The Foundations of the Resiliency Framework*. Resiliency In Action, compiled by Nan Henderson. Available at: https://resiliency.com."
+    confidence: medium
+
+  - filename: "Volume-1-Childhood-play-and-the-Playwork-Principles-Playwork-guides_2023-WEB.pdf"
+    authors: ["Play Wales"]
+    editors: ["Ludicology"]
+    year: 2021
+    title: "Childhood, play and the Playwork Principles"
+    container: "Playwork Guides — Volume 1"
+    publisher: "Play Wales"
+    place: "Cardiff"
+    pages: null
+    isbn: "978-1-914361-00-5"
+    url: "https://www.play.wales"
+    short_cite: "Play Wales, 2021"
+    full_ref: "Play Wales (2021). *Childhood, play and the Playwork Principles*. Playwork Guides — Volume 1. Editing by Ludicology. Cardiff: Play Wales. ISBN 978-1-914361-00-5."
+    confidence: high
+
+  - filename: "What if and What More Wendy Russell Bridgette Hanscombe and John FfitzPpatrick.pdf"
+    authors: ["Russell, W. K.", "Fitzpatrick, J.", "Handscomb, B."]
+    year: 2020
+    title: "What if and What More: disturbing habits of thought about playwork 're-search'"
+    container: "International Journal of Playwork Practice"
+    volume: "1"
+    issue: "1"
+    article: "5"
+    publisher: "ScholarWorks@BGSU"
+    place: null
+    pages: null
+    isbn: null
+    url: "https://doi.org/10.25035/ijpp.01.01.05"
+    short_cite: "Russell, Fitzpatrick & Handscomb, 2020"
+    full_ref: "Russell, W. K., Fitzpatrick, J. & Handscomb, B. (2020). 'What if and What More: disturbing habits of thought about playwork re-search'. *International Journal of Playwork Practice*, 1(1), Article 5. https://doi.org/10.25035/ijpp.01.01.05"
+    confidence: high
+
+  - filename: "What Is Unique About Playwork.pdf"
+    authors: ["Brown, F. C."]
+    year: 2017
+    title: "What is Unique About Playwork?"
+    publisher: "Playwork Foundation"
+    place: null
+    pages: null
+    isbn: null
+    url: "https://eprints.leedsbeckett.ac.uk/id/eprint/4964/"
+    short_cite: "Brown, 2017"
+    full_ref: "Brown, F. C. (2017). *What is Unique About Playwork?* Playwork Foundation."
+    confidence: high

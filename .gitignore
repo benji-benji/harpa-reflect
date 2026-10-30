@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.env
+.venv/
+venv/
+node_modules/
+build/
+*.log
+.DS_Store
+*.sqlite3
+whisper_models/
+/play theory 
+/docs
+
+# Build output served by the backend, local tool settings
+frontend_dist/
+.claude/
